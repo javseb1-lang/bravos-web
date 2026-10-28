@@ -1,0 +1,10 @@
+node_modules/
+.netlify/
+.openai/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.zip
+*.tar.gz
